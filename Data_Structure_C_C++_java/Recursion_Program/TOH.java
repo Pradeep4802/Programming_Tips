@@ -10,7 +10,7 @@ public class TOH {
     }
 
     public static void main(String args[]) {
-        int n = 3;
-        towerOfHanoi(2, "S", "H", "D");
+        int n = 3;     
+        towerOfHanoi(n, "S", "H", "D");
     }
 }
